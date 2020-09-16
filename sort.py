@@ -1,3 +1,3 @@
 from guess import allGuesses
-
-print(str(allGuesses.sort()))
+allGuesses.sort()
+print(allGuesses)
