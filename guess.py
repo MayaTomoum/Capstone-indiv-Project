@@ -30,5 +30,3 @@ else:
     myNumber = str(myNumber)
     print('Nope. The number I was thinking of was ' + myNumber)
 
-#This is my capstone individual project
-
